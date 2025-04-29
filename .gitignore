@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+ENV/
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+
+# User data and logs
+data/symptom_logs.csv
+
+# Environment config
+.env
+
+# Jupyter and Streamlit files
+.ipynb_checkpoints/
